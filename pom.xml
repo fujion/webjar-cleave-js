@@ -9,9 +9,13 @@
 
 	<name>cleave.js Input Formatting Library</name>
 	<artifactId>webjar-cleave-js</artifactId>
-	<version>1.6.0</version>
+	<version>1.6.0-1</version>
 	<description>Input text formatting library.</description>
-	
+
+	<properties>
+		<skip.minification.js>false</skip.minification.js>
+	</properties>
+
 	<build>
 		<plugins>
 			<plugin>
