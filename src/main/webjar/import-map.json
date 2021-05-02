@@ -1,11 +1,6 @@
 {
-  "paths": {
+  "imports": {
     "cleave.js": "dist/cleave.js",
     "cleave.js/addons/": "dist/addons/"
-  },
-  "meta": {
-    "cleave.js": {
-      "format": "global"
-    }
   }
 }
