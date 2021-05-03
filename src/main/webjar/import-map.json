@@ -1,6 +1,6 @@
 {
   "imports": {
     "cleave.js": "dist/cleave.js",
-    "cleave.js/addons/": "dist/addons/"
+    "cleave.js/": "dist/"
   }
 }
