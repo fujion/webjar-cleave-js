@@ -1,0 +1,5 @@
+dir_exists "dist/addons"
+file_exists "dist/cleave.js"
+file_exists "import-map.json"
+file_contains "LICENSE" "Apache License"
+file_exists "README.md"
